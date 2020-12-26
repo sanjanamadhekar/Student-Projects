@@ -1,0 +1,1 @@
+A simple sudent management system that tests all the python fundamentals. 
