@@ -6,15 +6,28 @@ The dataset has details of 614 customers with the following 13 features
 
 Feature	Description
 Loan_ID	Unique Loan ID
+
 Gender	Male/Female
+
 Married	Applicant Married (Y/N)
+
 Dependents	Number of dependents
+
 Education	Graduate/Under Graduate
+
 Self_Employed	Self employed (Y/N)
+
 ApplicantIncome	Income of the applicant
+
 CoapplicantIncome	Income of the co applicant
+
 LoanAmount	Loan amount in thousands
+
 LoanAmountTerm	Term of loan in months
+
 Credit_History	credit hostory meets guidelines}
+
 Property_Area	Urban/Semi-Urban/Rural
+
 Loan_Status	Loan approved (Y/N)
+
